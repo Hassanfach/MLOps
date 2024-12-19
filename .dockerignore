@@ -1,0 +1,22 @@
+# Abaikan folder virtual environment
+venv/
+
+# Abaikan file cache Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Abaikan file log
+*.log
+
+# Abaikan file dataset sementara atau hasil testing
+*.tmp
+*.csv
+*.json
+
+# Abaikan konfigurasi editor (opsional)
+.vscode/
+.idea/
+
+# Abaikan folder repositori Git
+.git/

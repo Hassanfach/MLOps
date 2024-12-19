@@ -1,0 +1,14 @@
+[
+    {
+        "annual_income": 60000,
+        "credit_score": 720,
+        "current_debt": 15000,
+        "loan_amount": 20000
+    },
+    {
+        "annual_income": 80000,
+        "credit_score": 650,
+        "current_debt": 10000,
+        "loan_amount": 25000
+    }
+]
